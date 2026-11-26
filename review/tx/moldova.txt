@@ -1,7 +1,7 @@
 == 国: モルドヴナ（赤と白のひもの村）
 〔143番目の国／広さ 5 画面／朝／遠景 vineyard_morning〕
 〔天候：晴れ 50%、強風 30%、霧 20%〕
-〔建物：house_small、house_large、house_small、elder_house／小物：tree_dead、tree_dead、stone_well、tree_dead、nofence、tree_green〕
+〔建物：house_small、house_large、house_small、elder_house／小物：tree_dead、tree_dead、stone_well、tree_dead、nofence、martisor_tree〕
 〔住人（西から）：イリナ @950、ドリン @2000、ヴェラばあちゃん @3050、イオンじいさん @3600〕
 
 〔行き〕

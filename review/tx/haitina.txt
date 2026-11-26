@@ -1,7 +1,7 @@
 == 国: ハイチナ（山また山の道）
 〔144番目の国／広さ 5 画面／朝／遠景 mountains〕
 〔天候：晴れ 60%、強風 20%、小雨 20%〕
-〔建物：thatched_farm、sea_shop、mx_house／小物：palm、tree_green、stool、rock2、tree_green、textile_stall〕
+〔建物：thatched_farm、sea_shop、mx_house／小物：palm、tree_green、stool、rock2、tree_green、textile_stall、mango_basket、mango_basket〕
 〔住人（西から）：ラヴリー @950、峠のコーヒー屋ジョゼフ @2050、ヤギ飼いのジャン @3100、ラヴリー @3800〕
 
 〔行き〕
