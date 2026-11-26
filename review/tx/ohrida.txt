@@ -1,7 +1,7 @@
 == 国: オフリダ（湖の真珠の町）
 〔140番目の国／広さ 5 画面／朝／遠景 lake_reeds_morning〕
 〔天候：晴れ 50%、霧 40%、小雨 10%〕
-〔建物：med_white、it_townhouse、mx_church／小物：tree_olive、wall_flowers、tree_olive、ship_rope、pier〕
+〔建物：med_white、it_townhouse、mx_church／小物：tree_olive、wall_flowers、tree_olive、ship_rope、scale_bucket、pier〕
 〔住人（西から）：アナ @950、真珠屋のキリルじいさん @2050、湖の漁師ペトレ @3100〕
 
 〔行き〕

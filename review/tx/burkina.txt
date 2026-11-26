@@ -1,7 +1,7 @@
 == 国: ブルキナ（絵の家の村）
 〔139番目の国／広さ 5 画面／朝／遠景 savanna_morning〕
 〔天候：晴れ 50%、小雨 30%、スコール 20%〕
-〔建物：adobe、adobe、adobe、adobe／小物：tree_dead、rice_basket、tree_green、rock、tree_dead〕
+〔建物：tiebele_house、tiebele_house、tiebele_house、tiebele_house／小物：tree_dead、rice_basket、tree_green、rock、tree_dead〕
 〔住人（西から）：アワ @950、ポコばあちゃん @2000、いとこのラサネ @3050〕
 
 〔行き〕
